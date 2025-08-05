@@ -1,7 +1,8 @@
-# homebrew-mx-creative-console-bg-maker
+# Homebrew MX Creative Console Background Maker
 
-A Homebrew tap for installing mx-creative-console-bg-maker - a command-line tool
-that splits images into a 3x3 grid for the Logitech MX Creative Console.
+A Homebrew tap for installing the MX Creative Console Background Maker - a
+command-line tool that splits images into a 3x3 grid for the Logitech MX
+Creative Console.
 
 ## About the Tool
 
