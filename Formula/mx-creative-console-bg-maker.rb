@@ -2,7 +2,7 @@ class MxCreativeConsoleBgMaker < Formula
   desc "A command-line tool that splits images into a 3x3 grid for the Logitech MX Creative Console"
   homepage "https://github.com/vallieres/mx-creative-console-bg-maker"
   url "https://github.com/vallieres/mx-creative-console-bg-maker/archive/refs/tags/2025.2.tar.gz"
-  sha256 "8d755bcb9461f99b44d751a230b8fa83dbbf1f0fef4b96845962113f25a26ca8"
+  sha256 "edfa515ce3d403933d6147b066b27200990443491078f39c7c858169a115c503"
   license "MIT"
   
   depends_on "go" => :build
