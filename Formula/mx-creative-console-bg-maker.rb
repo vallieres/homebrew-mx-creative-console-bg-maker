@@ -8,7 +8,7 @@ class MxCreativeConsoleBgMaker < Formula
   depends_on "go" => :build
   
   def install
-    system "go", "build", *std_go_args(ldflags: "-s -w"), "./cmd/ccbm"
+    system "go", "build", *std_go_args(output: bin/"ccbm", ldflags: "-s -w"), "./cmd/ccbm"
   end
   
   test do
